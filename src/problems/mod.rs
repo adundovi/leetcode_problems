@@ -8,3 +8,7 @@ mod p0028_find;
 mod p0035_search;
 mod p0058_length;
 mod p0066_plus;
+mod p0067_add;
+mod p0069_sqrt;
+mod p0070_climbing;
+mod p0083_remove;
